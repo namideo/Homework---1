@@ -14,11 +14,13 @@ For this homework assignment I deployed a web application to the best of my abil
 
 6. Organized and condensed some of the css elements and commented on my changes. 
 
-Created a new repository within GitHub. 
+7. Created a new repository within GitHub. 
 
-Added, committed, and pushed my changes to my repository in GitHub. 
+8. Added, committed, and pushed my changes to my repository in GitHub. 
 
-Uploaded my assignment to GitHubPages. 
+9. Uploaded my assignment to GitHubPages. 
+
+10. Supplied a screenshot of the web application below.
 
 ![Screenshot (2)](https://user-images.githubusercontent.com/94868925/147861978-2726400e-7cee-4416-b22c-db95604a8f58.png)
 
