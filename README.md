@@ -1,4 +1,4 @@
-# Horiseon
+# Horiseon-code-refractor
 
 For this homework assignment I deployed a web application to the best of my ability following the guidelines laid out in the assignment and as covered in class. Below is a breakdown of what I achieved in the assignment.
 
